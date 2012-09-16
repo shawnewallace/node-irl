@@ -2,8 +2,7 @@
 
 In a series of tutorials we’ll go through designing, building and deploying a real application built on Node. This is an actual app that I’m intending to release, and you’ll get to see every stage as we go through, warts & all.
 
-[Part 1.](http://phuu.net/2012/09/13/node-js-in-real-life-part-1.html)
-[Part 2.](http://phuu.net/2012/09/14/node-js-in-real-life-part-2.html)
+Check out [Part 1](http://phuu.net/2012/09/13/node-js-in-real-life-part-1.html), where we set Node up and use npm, or [Part 2.](http://phuu.net/2012/09/14/node-js-in-real-life-part-2.html), where we take a look at what's different about Node and how to get setup git and Mocha.
 
 # License
 
