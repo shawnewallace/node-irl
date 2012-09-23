@@ -31,12 +31,13 @@ events.add({
 
 */
 
-var should = require('should');
+var should = require('should')
+  , events = {};
 
 describe('events', function () {
 
   it('should exist', function () {
     should.exist(events);
   });
-
+  
 });
